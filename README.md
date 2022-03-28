@@ -1,4 +1,4 @@
 # Discord_bot
 
-This is a bot that relays messages from user
+This is a bot that replies hello {user}
 
